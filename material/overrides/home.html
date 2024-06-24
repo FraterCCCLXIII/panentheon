@@ -1,31 +1,7 @@
 {% extends "main.html" %}
-
 {% block tabs %}
   {{ super() }}
-  <style>
-    .md-header {
-      position: initial; /* Reset header position if necessary */
-    }
-    .md-main__inner {
-      margin: 0; /* Remove margin for main content */
-    }
-    .md-content {
-      display: none; /* Hide default content */
-    }
-    @media screen and (min-width: 60em) {
-      .md-sidebar--secondary {
-        display: none; /* Hide secondary sidebar on larger screens */
-      }
-    }
-    @media screen and (min-width: 76.25em) {
-      .md-sidebar--primary {
-        display: none; /* Hide primary sidebar on even larger screens */
-      }
-    }
-  </style>
-{% endblock %}
-
-{% block content %}
+  <style>.md-header{position:initial}.md-main__inner{margin:0}.md-content{display:none}@media screen and (min-width:60em){.md-sidebar--secondary{display:none}}@media screen and (min-width:76.25em){.md-sidebar--primary{display:none}}</style>
 <section class="mdx-container">
   <div class="md-grid md-typeset">
     <div class="mdx-hero">
@@ -38,16 +14,13 @@
         <a href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | e }}" class="md-button md-button--primary" style="position: relative; z-index: 10;">
           Start here
         </a>
-      </div>
-      <div class="mdx-hero__bottom-text" style="position: absolute; bottom: 20px; left: 50%; transform: translateX(-50%); z-index: 10;">
-        <!-- Text at the bottom of the screen -->
-        <p>Additional text at the bottom</p>
+        <!--           <a href="{{ 'title/' | url }}" title="Title" class="md-button">
+            Get Insiders
+          </a> -->
       </div>
     </div>
   </div>
-</section>
+</section> 
 {% endblock %}
-
-{% block footer %}
-<!-- Footer content if needed -->
-{% endblock %}
+{% block content %}{% endblock %}
+{% block footer %}{% endblock %}
