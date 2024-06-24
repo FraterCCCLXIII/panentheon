@@ -1,7 +1,9 @@
+<!--- 
 ---
 title: Title
 template: home.html
 ---
+--->
 
 # Defining the Meta-Religion
 
