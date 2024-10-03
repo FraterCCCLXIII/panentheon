@@ -31,7 +31,8 @@ extra:
 nav:
   - Home: index.md
   - History: history.md
+  - Lineage: lineage.md
   - About: about.md
   - Glossary:
-    - Home: glossary/interpretatio-universalis.md
+    - Interpretatio Universalis: glossary/interpretatio-universalis.md
   - Contributor Guide: contributor_guide.md
