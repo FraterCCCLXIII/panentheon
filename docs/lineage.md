@@ -2,6 +2,10 @@
 
 Universal Panentheism is inherently trans-traditional, recognizing that the expressions of divine truth—through both Logos (reason, order) and Eros (love, creativity)—manifest across many cultures and religious traditions. This inclusive philosophy supports religious pluralism, affirming that no single tradition holds exclusive access to the divine or the ultimate truth, which would be an inversion of the true relationship of religion to the divine. Instead, it honors the collective contributions of saints, sages, philosophers, and enlightened beings from diverse spiritual lineages as part of our shared human heritage. Together, these voices have helped humanity articulate and investigate the nature of reality, weaving a rich, interconnected tapestry of wisdom that transcends doctrinal boundaries while revealing the deeper, universal dimensions of existence. This list does not represent a list of saints in the Christian sense, or a list of enlightened beings in the Buddhist or Hindu sense.
 
+Here are the bios for **Arthur Schopenhauer** and **Swami Vivekananda**, formatted for your project:
+
+---
+
 ### Legendary Period (16th - 8th Century BCE)
 
 #### **Cadmus (mythological figure, traditionally dated to c. 1500-1200 BCE)**
@@ -262,25 +266,6 @@ Roman Emperor and Stoic philosopher, author of *Meditations*, focusing on self-d
 
 ---
 
-### Post-Neoplatonists and Modern Thinkers (17th - 19th Century CE)
-
-#### **G. W. Leibniz (1646-1716)**  
-Developed monadology, proposing that the universe consists of individual, dynamic entities (monads), each reflecting the divine, contributing to the metaphysical framework of spiritual evolution.
-
-#### **Immanuel Kant (1724-1804)**  
-Laid the groundwork for modern metaphysics, particularly focusing on the relationship between human cognition and the structure of reality.
-
-#### **J. G. Fichte (1762-1814)**  
-Developed transcendental idealism, emphasizing the unity of subject and object in the pursuit of spiritual development and self-realization.
-
-#### **Friedrich Schelling (1775-1854)**  
-Explored the Absolute and the dynamic unfolding of nature and spirit, contributing to ideas of cosmic evolution as a metaphysical process.
-
-#### **Georg Wilhelm Friedrich Hegel (1770-1831)**  
-Philosopher known for his dialectical method, argued that history is the realization of Spirit, evolving through conflict and resolution, presenting a vision of history as spiritual development.
-
----
-
 ### Late Antiquity to Early Medieval Period)
 
 #### **Pseudo-Dionysius the Areopagite (5th - 6th Century CE)**  
@@ -338,6 +323,9 @@ Expanded Neoplatonic ideas, proposing an infinite universe with worlds as expres
 
 ### **Early Influential Philosophers and Theologians (Pre-20th Century)**
 
+#### **Jacob Boehme (1575-1624)**  
+A German mystic and theologian, Boehme’s work heavily influenced later theosophists and idealists. He articulated a vision of spiritual evolution and the relationship between the divine and the material world. His concept of divine dialectics and becoming prefigures later process theology and integral philosophy.
+
 #### **Ralph Cudworth (1617-1688 CE)**  
 Revived Neoplatonic ideas within the Cambridge Platonists, opposing materialism and emphasizing divine reason in the cosmos.
 
@@ -345,15 +333,18 @@ Revived Neoplatonic ideas within the Cambridge Platonists, opposing materialism 
 A Dutch philosopher whose work laid the foundations for modern conceptions of monism and panentheism. Spinoza viewed God and Nature as one, asserting that everything is part of a single, all-encompassing substance. His philosophical system emphasized that God is immanent in the universe, influencing later thinkers in both metaphysics and developmental spirituality.
 
 #### **Gottfried Wilhelm Leibniz (1646-1716)**  
-Influenced by Neoplatonism in his concept of monads, self-contained entities reflecting the universe and divine order.
+Developed monadology, proposing that the universe consists of individual, dynamic entities (monads), each reflecting the divine, contributing to the metaphysical framework of spiritual evolution.
 
-#### **Jacob Boehme (1575-1624)**  
-A German mystic and theologian, Boehme’s work heavily influenced later theosophists and idealists. He articulated a vision of spiritual evolution and the relationship between the divine and the material world. His concept of divine dialectics and becoming prefigures later process theology and integral philosophy.
+#### **Immanuel Kant (1724-1804)**  
+Laid the groundwork for modern metaphysics, particularly focusing on the relationship between human cognition and the structure of reality.
 
 #### **Thomas Taylor (15 May 1758 – 1 November 1835)**
 Thomas Taylor was an English translator and Neoplatonist, renowned for being the first to translate the complete works of **Aristotle** and **Plato** into English, as well as the **Orphic fragments**. His translations were instrumental in reviving interest in ancient Greek philosophy during the 18th and 19th centuries. Taylor's work was deeply influenced by the **Neoplatonic tradition**, and he sought to convey the metaphysical and spiritual dimensions of Platonic and Aristotelian thought to a wider audience as part of his dedication to their revival.
 
-#### **G. W. F. Hegel (1770-1831)**  
+#### **J. G. Fichte (1762-1814)**  
+Developed transcendental idealism, emphasizing the unity of subject and object in the pursuit of spiritual development and self-realization.
+
+#### **Georg Wilhelm Friedrich Hegel (1770-1831)**  
 A German idealist philosopher, Hegel’s philosophy of history and dialectics sees Spirit (Geist) unfolding through historical processes, eventually achieving self-awareness. His work strongly influenced later developmental thinkers, emphasizing that reality evolves through dialectical processes, uniting opposites in a higher synthesis.
 
 #### **Samuel Taylor Coleridge (1772-1834)**  
@@ -362,8 +353,13 @@ Integrated Neoplatonism into his work, focusing on imagination, transcendence, a
 #### **Friedrich Schelling (1775-1854)**  
 A contemporary of Hegel, Schelling emphasized the dynamic, living nature of reality, with nature and spirit as intertwined in an ongoing process of self-revelation. He laid the foundation for later spiritual evolutionary thought, particularly in his work on the relationship between freedom, creation, and divine becoming.
 
+#### **Arthur Schopenhauer (1788-1860)**  
+Arthur Schopenhauer was a German philosopher best known for his work *The World as Will and Representation* (1818). He emphasized the role of the **will**—a blind, irrational force underlying all of reality—over reason and intellect, which he saw as secondary. Schopenhauer was heavily influenced by both **Plato** and **Kant**, but he also drew deeply from **Eastern philosophies**, particularly **Hinduism** and **Buddhism**. His concept of the **will to live** resonates with Eastern ideas of **desire** (tanha) and the suffering caused by attachment. Schopenhauer believed that asceticism, aesthetic contemplation, and compassion could offer liberation from the painful cycle of **will** and suffering, making him a key figure in the development of **pessimistic philosophy**. His work significantly influenced later existentialist and nihilist thinkers, including **Nietzsche** and **Freud**.
+
 #### **Ralph Waldo Emerson (1803-1882)**  
 An American transcendentalist philosopher and essayist, Emerson emphasized the divine immanence in nature and human experience, and saw spiritual evolution as a process of self-realization and awakening. His philosophy bridged Western and Eastern metaphysical traditions, influencing later integral and developmental thinkers.
+
+---
 
 ### **Modern Era (20th century onward)**
 
@@ -378,6 +374,9 @@ The founder of process philosophy, Whitehead saw reality as a series of dynamic 
 
 #### **James Mark Baldwin (1861-1934)**  
 A developmental psychologist who explored the interaction of biological and psychological development, Baldwin laid early foundations for theories of evolutionary consciousness.
+
+#### **Swami Vivekananda (1863-1902)**  
+Swami Vivekananda was an Indian Hindu monk and a key figure in introducing **Vedanta** and **Yoga** to the Western world. A disciple of **Ramakrishna**, he was instrumental in revitalizing Hinduism in India while also fostering interfaith dialogue. His speech at the **Parliament of the World’s Religions** in Chicago in 1893 brought the message of **Universalism** and the essential unity of all religions to a global audience. Vivekananda emphasized the spiritual and practical aspects of **Advaita Vedanta** (non-dualism), asserting that **Brahman** (the ultimate reality) is present in every individual soul (Atman). He advocated for the integration of **spirituality** with **social action**, particularly in serving the poor and uplifting the masses. His writings and speeches have profoundly influenced both **Eastern and Western thought**, and he is revered as a champion of **religious pluralism** and **global spiritual unity**.
 
 #### **Sri Aurobindo (1872-1950)**  
 An Indian philosopher and spiritual teacher, Aurobindo proposed that evolution is a spiritual process, with human consciousness capable of transforming into **Supramental** consciousness. His views on the unfolding of consciousness and divine evolution heavily influenced later integral and developmental theories.
