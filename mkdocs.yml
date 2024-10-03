@@ -33,6 +33,5 @@ nav:
   - History: history.md
   - About: about.md
   - Glossary:
-    - Apeiron: glossary/apeiron.md
-    - Eudaimonia: glossary/eudaimonia.md
+    - Home: glossary/interpretatio-universalis.md
   - Contributor Guide: contributor_guide.md
