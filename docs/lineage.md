@@ -1,4 +1,6 @@
-Universal Panentheism is inherently trans-traditional, recognizing that the expressions of divine truth—through both Logos (reason, order) and Eros (love, creativity)—manifest across many cultures and religious traditions. This inclusive philosophy supports religious pluralism, affirming that no single tradition holds exclusive access to the divine or the ultimate truth. Instead, it honors the collective contributions of saints, sages, philosophers, and enlightened beings from diverse spiritual lineages as part of our shared human heritage. Together, these voices have helped humanity articulate and investigate the nature of reality, weaving a rich, interconnected tapestry of wisdom that transcends doctrinal boundaries while revealing the deeper, universal dimensions of existence.
+**NOTE: Currently this list is not exhaustive and is loosely defininig the people listed as "contributors" although they may not self-identify as Universal Panentheists. In the future it we will be exploring a taxonomy for how we make distinctions between the type of contributor: Scholar, Teacher, Activist, Leader, Philosopher, and Sage. Further, we will be exploring of how to include the many extraordinary beings from the vast array of spiritual traditions into this list. For now this list emphasizes the great contributors of Academy, the Platonic schools, including the Stoics and Pyrrhonists, as part of an ancient Western nondual current that has always been in harmony with the Eastern nondual traditions.**
+
+Universal Panentheism is inherently trans-traditional, recognizing that the expressions of divine truth—through both Logos (reason, order) and Eros (love, creativity)—manifest across many cultures and religious traditions. This inclusive philosophy supports religious pluralism, affirming that no single tradition holds exclusive access to the divine or the ultimate truth, which would be an inversion of the true relationship of religion to the divine. Instead, it honors the collective contributions of saints, sages, philosophers, and enlightened beings from diverse spiritual lineages as part of our shared human heritage. Together, these voices have helped humanity articulate and investigate the nature of reality, weaving a rich, interconnected tapestry of wisdom that transcends doctrinal boundaries while revealing the deeper, universal dimensions of existence. This list does not represent a list of saints in the Christian sense, or a list of enlightened beings in the Buddhist or Hindu sense.
 
 ---
 
@@ -278,14 +280,32 @@ An Indian philosopher and spiritual teacher, Aurobindo proposed that evolution i
 #### **The Mother (Mirra Alfassa) (1878-1973)**  
 Spiritual collaborator of Sri Aurobindo, she played a key role in manifesting his vision of spiritual evolution, emphasizing the **transformation** of consciousness and the material world through **Supramental** practice.
 
+#### **Nikolai Berdyaev (1874-1948)**  
+A Russian existentialist philosopher and theologian, Berdyaev focused on the relationship between human freedom and divine creativity. His work on the evolving nature of human consciousness in relation to God influenced process thought and existential theology.
+
 #### **Carl Gustav Jung (1875-1961)**  
 Jung’s work on **individuation** and the **collective unconscious** framed psychological development as an evolutionary process, with archetypes and the integration of shadow elements as steps toward wholeness.
+
+#### **Martin Buber (1878-1965)**  
+A Jewish philosopher known for his work on dialogue and relational existence. His concept of the "I-Thou" relationship emphasizes the dynamic interaction between human beings and the divine, influencing existential theology and relational approaches to spiritual evolution.
 
 #### **Alfred Korzybski (1879-1950)**  
 A Polish-American philosopher, Korzybski founded **General Semantics**, exploring how language, meaning, and time shape human cognition and the evolution of consciousness, influencing later developmental models.
 
 #### **Pierre Teilhard de Chardin (1881-1955)**  
 A Jesuit priest and paleontologist, Teilhard saw evolution as a process that ultimately leads to the **Omega Point**, where humanity and the cosmos are united in divine consciousness. Though often associated with evolutionary theology, his views align with process thought in their emphasis on dynamic becoming.
+
+#### **Paul Tillich (1886-1965)**  
+A German-American existentialist theologian, Tillich’s concept of **God as the Ground of Being** integrates existentialist philosophy with process thought, emphasizing the relationship between human existence and the dynamic unfolding of divine reality.
+
+#### **Roberto Assagioli (1888-1974)**  
+Founder of **Psychosynthesis**, Assagioli developed a system of psychology that integrated spirituality and personal development. His focus on the **Higher Self** and the evolution of human consciousness aligns with developmental theories in both psychology and spirituality.
+
+#### **Gabriel Marcel (1889-1973)**  
+A French existentialist philosopher who emphasized **being**, **becoming**, and the experience of the divine. His ideas on personal development, creativity, and transcendence contributed to existential theology, linking the personal evolution of consciousness with a divine unfolding.
+
+#### **Henri de Lubac (1896-1991)**  
+A Catholic theologian whose work on the spiritual nature of the universe linked Teilhard de Chardin's ideas with Christian doctrine. He emphasized the dynamic and unfolding relationship between creation and divine purpose, helping bridge theology and evolutionary thinking.
 
 #### **Charles Hartshorne (1897-2000)**  
 Building on Whitehead’s ideas, Hartshorne proposed that God evolves along with the world, constantly interacting with creation in a dynamic process of growth. His view that God is both unchanging in essence but changing in experience has been a core idea in process theology.
@@ -302,6 +322,9 @@ Gebser developed a theory of the evolution of human consciousness, describing st
 
 #### **Clare W. Graves (1914-1986)**  
 The creator of the developmental model that later became known as **Spiral Dynamics**, Graves explored how human values and consciousness evolve through different stages, influencing later developmental and integral philosophies.
+
+#### **Thomas Berry (1914-2009)**  
+An eco-theologian and cultural historian, Berry emphasized the need to align human development with the evolutionary processes of the universe. His work integrates ecological spirituality with developmental theories, focusing on the dynamic interrelationship between human consciousness and the Earth.
 
 #### **John B. Cobb Jr. (1925-)**  
 A key figure in process theology, Cobb integrated process philosophy with ecological and ethical concerns, emphasizing that God is deeply involved in the evolutionary processes of the universe, particularly in how we interact with the environment and each other.
@@ -327,13 +350,24 @@ A systems theorist and philosopher, László focused on the integration of scien
 #### **David Ray Griffin (1939-2022)**  
 An American philosopher and theologian, Griffin applied process theology to issues like science, religion, and postmodern thought. He bridged Whitehead’s metaphysics with contemporary challenges, expanding the scope of process thought to modern philosophical questions.
 
+#### **A.H. Almaas (1944-)**  
+A spiritual teacher and founder of the **Diamond Approach**, Almaas blends psychology, spiritual development, and the direct experience of Being in his teachings. His work focuses on the unfolding of the true self through an evolutionary process of realization.
+
 #### **Ken Wilber (1949-)**  
 The founder of **Integral Theory**, Wilber integrates developmental, psychological, and spiritual perspectives into a comprehensive model of human consciousness. His work maps the evolution of consciousness through stages of development, uniting various traditions and disciplines in a holistic framework.
 
+#### **Christopher Bache (1950-)**  
+A philosopher and transpersonal psychologist, Bache focuses on the evolution of consciousness through deep spiritual experiences, especially involving non-ordinary states of consciousness. His work on **psychedelic-assisted spiritual evolution** brings new perspectives to developmental and integral theory.
+
 #### **Brian Swimme (1950-)**  
 A cosmologist who integrates **scientific cosmology** with spiritual wisdom, Swimme emphasizes the evolutionary unfolding of the universe and the human role in its ongoing development. His work brings together science, spirituality, and process thought.
+
+#### **Richard Tarnas (1950-)**  
+A cultural historian and philosopher, Tarnas integrates Jungian psychology, cosmology, and spirituality in his work. His focus on the historical and psychological evolution of consciousness contributes to the broader understanding of human spiritual development.
 
 #### **Andrew Cohen (1955-)**  
 A contemporary spiritual teacher and founder of **Evolutionary Enlightenment**, Cohen emphasizes the role of human beings as active participants in the evolution of consciousness. His teachings build on the insights of Sri Aurobindo and Integral Theory, stressing the importance of awakening to a higher purpose.
 
 ---
+
+
