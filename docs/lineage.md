@@ -39,9 +39,6 @@ Hesiod was an early Greek poet whose works Theogony and Works and Days explore t
 #### **Pittacus of Mytilene (c. 640-568 BCE)**
 A general and statesman from Mytilene, on the island of Lesbos, Pittacus was famous for his role in securing peace for his city-state and promoting justice. His saying was, *"Know when to act."*
 
-#### **Pittacus of Mytilene (c. 640-568 BCE)**
-A general and statesman from Mytilene, on the island of Lesbos, Pittacus was famous for his role in securing peace for his city-state and promoting justice. His saying was, *"Know when to act."*
-
 #### **Solon (c. 630–560 BCE)**
 Solon was a legendary Athenian statesman, lawmaker, and one of the **Seven Sages of Greece**. He is credited with laying the foundation for democracy in Athens and for his efforts to curb the excesses of the aristocracy. Solon’s reforms and ethical maxims about justice and equality were an essential precursor to later philosophical discussions on justice, virtue, and governance.
 
