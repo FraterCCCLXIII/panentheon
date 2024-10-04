@@ -18,7 +18,7 @@ theme:
     - scheme: default
       primary: white
       accent: black
-  copyright: Copyright &copy; Panentheon
+  copyright: Copyright &copy; "Apeiron et Kosmos"
   extra:
     generator: false
 
