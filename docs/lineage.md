@@ -2,8 +2,6 @@
 
 Universal Panentheism is inherently trans-traditional, recognizing that the expressions of divine truth—through both Logos (reason, order) and Eros (love, creativity)—manifest across many cultures and religious traditions. This inclusive philosophy supports religious pluralism, affirming that no single tradition holds exclusive access to the divine or the ultimate truth, which would be an inversion of the true relationship of religion to the divine. Instead, it honors the collective contributions of saints, sages, philosophers, and enlightened beings from diverse spiritual lineages as part of our shared human heritage. Together, these voices have helped humanity articulate and investigate the nature of reality, weaving a rich, interconnected tapestry of wisdom that transcends doctrinal boundaries while revealing the deeper, universal dimensions of existence. This list does not represent a list of saints in the Christian sense, or a list of enlightened beings in the Buddhist or Hindu sense.
 
-Here are the bios for **Arthur Schopenhauer** and **Swami Vivekananda**, formatted for your project:
-
 ---
 
 ### Legendary Period (16th - 8th Century BCE)
