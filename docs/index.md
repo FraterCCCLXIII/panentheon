@@ -5,7 +5,7 @@ template: home.html
 ---
 --->
 
-#A Universal Meta-Philosophy
+#Architecting a Universal Meta-Religion, Philosophy, and Culture
 Panentheon is a comprehensive repository of philosophical thought, exploring and presenting what can be variously called Evolutionary Panentheism, Integral Panentheism, Cosmotheism, Evolutionary Monism, Process Panentheism, and Metaplatonism, among others. It serves as a universal meta-philosophical system designed to address the central issues of the human condition, liberating both individual and collective consciousness. This system offers a structured vocabulary that unites various ontological and cosmological traditions, providing a lens through which these diverse perspectives can interact and enrich each other. In this way Panentheon is advocating for a religious framework that is more universal, collaborative, constructive, and exist as shared living property, not a historical artifact. This site does not represent any kind of singular body of governance and neither suggests that governing bodies cannot or should not exist.
 
 Panentheon functions as an overarching framework that transcends and includes multiple religious and philosophical systems is highly influenced by various philsophers and spiritual teachers. Rather than reducing these traditions to a singular belief, it reimagines them under a more comprehensive umbrella. In doing so, it serves as a constructive bridge between Judaism, Christianity, Buddhism, Hinduism, and other schools of thought. This integrative approach weaves together teachings from different traditions, philosophers, and texts, building a deeply human and enlightening understanding of existence.
