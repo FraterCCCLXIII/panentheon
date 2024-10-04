@@ -30,10 +30,11 @@ extra:
 
 nav:
   - Home: index.md
-  - History: history.md
-  - Lineage: lineage.md
-  - About: about.md
+  - About:
+    - About: about.md
+    - History: history.md
     - Catechism: catechism.md
-  - Glossary:
+    - Lineage: lineage.md
+  - Resources:
     - Interpretatio Universalis: glossary/interpretatio-universalis.md
   - Contributor Guide: contributor_guide.md
