@@ -51,15 +51,18 @@ In ancient and modern traditions, headwear signifies status, protection, or mind
 
 In addition to the robes and headwear, other garments can be worn as part of spiritual practice:
 
-###  **Inner Robes (Greek: ἐσθής - Esthēs)**: These are basic garments worn underneath the outer vestments, similar to the *Zen samue*. They represent simplicity and purity, serving as a base for other more formal vestments.
+###  **Inner Robes (Greek: ἐσθής - Esthēs)**
+These are basic garments worn underneath the outer vestments, similar to the *Zen samue*. They represent simplicity and purity, serving as a base for other more formal vestments.
   
-### **Sash or Cord (Greek: Ζώνη - Zṓnē)**: A belt or cord that can be used to secure the vestments in place. The cord can symbolize the binding of the practitioner’s body and spirit in dedication to their spiritual path.
+### **Sash or Cord (Greek: Ζώνη - Zṓnē)**
+A belt or cord that can be used to secure the vestments in place. The cord can symbolize the binding of the practitioner’s body and spirit in dedication to their spiritual path.
 
-### **Penannular Broach (Greek: Πενάγκυλος - Penánkylos)**: A circular broach with an open section, traditionally used to fasten the *Chlamys* or *Himation*. It signifies unity and the infinite nature of the divine.
+### **Penannular Broach (Greek: Πενάγκυλος - Penánkylos)**
+A circular broach with an open section, traditionally used to fasten the *Chlamys* or *Himation*. It signifies unity and the infinite nature of the divine.
 
 ---
 
-### **Tools and Accessories**
+### **Instruments and Accessories**
 
 ### **Lituus (Latin) (Greek: Λίτυος - Lítyos)**  
 The *Lituus* is a curved wand used during spiritual ceremonies and processions as a symbol of authority and divine insight. It's origins, like the Japanese and Chinese Riyu, are unknown. The Lituus was the instrument of the Augurs who interpreted divine signs. In early depictions of Jesus, he is shown holding a Lituus.
