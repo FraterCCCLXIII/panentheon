@@ -3,10 +3,10 @@ The Interpretatio Universalis is a modern development rooted in the ancient prac
 ---
 
 ## Orchesis (ὄρχησις)
-**Latin:** Saltatio
-**Sanskrit:** नृत्य (Nritya)
-**Hebrew:** מחול (Machol)
-**Arabic:** رقص (Raqs)
+**Latin:** Saltatio  
+**Sanskrit:** नृत्य (Nritya)  
+**Hebrew:** מחול (Machol)  
+**Arabic:** رقص (Raqs)  
 
 In ancient Greek, **Orchesis** (ὄρχησις) refers to the "art of dancing" or cosmic dance. It reflects the sacred or ritualistic aspect of dance, often related to divine or cosmic movements. In Sanskrit, **नृत्य (Nritya)** similarly denotes classical or ritual dance in Indian traditions, associated with the cosmic dance of Lord Shiva (Nataraja). Orchesis can refer to a ritual dance or to the cosmos as a cosmic dance of The One.
 
