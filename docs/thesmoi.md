@@ -1,6 +1,3 @@
-
----
-
 # **Teacher's Code of Conduct (Thesmoi, Lex Sacra)**
 
 As a teacher, we commit ourselves to living an ethical life that upholds the principles of spiritual integrity, inclusivity, and personal development. Central to this commitment is the effort to provide a safe, inclusive, and ethically sound environment for all participants, community members, and visitors within our spiritual centers. This code of conduct is inspired by the guiding principles of truth, wisdom, compassion, and cosmic unity.
