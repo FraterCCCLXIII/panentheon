@@ -36,8 +36,9 @@ nav:
     - Catechism: catechism.md
     - Lineage: lineage.md
   - Resources:
-    - Interpretatio Universalis: glossary/interpretatio-universalis.md
-    - Iconotheca Universalis: iconotheca-universalis.md
+    - Interpretatio - Glossary: glossary/interpretatio-universalis.md
+    - Iconotheca - Iconography: iconotheca-universalis.md
     - Thesmoi - Codes of Conduct: thesmoi.md
-    - Typikon - Guides: typikon.md
+    - Typikon - Customs: typikon.md
+    - Ascesis - Practices: ascesis.md
   - Contributor Guide: contributor_guide.md
