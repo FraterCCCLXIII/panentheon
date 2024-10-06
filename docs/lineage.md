@@ -557,6 +557,9 @@ Moltmann is known for his **theology of hope**, which presents the **Kingdom of 
 #### **Barbara Marx Hubbard (1929-2019)**  
 A futurist and the founder of the **Conscious Evolution** movement, Hubbard advocated for humanity’s active role in the next stage of evolution, emphasizing co-creation and the emergence of a new human species through spiritual and social transformation.
 
+#### **Dr. Wolfgang Smith (1930-2024)**
+Wolfgang Smith, born in 1930, graduated from Cornell at 18. He solved the re-entry problem for space flight, then shifted to teaching mathematics at top universities. A Platonist critic of modern science, he advocated for a tripartite cosmology. His life was featured in the 2020 documentary The End of Quantum Reality, and his works are being republished by the Philos-Sophia Initiative.
+
 #### **Beatrice Bruteau (1930–2014)**  
 Bruteau’s work combines **process theology**, **Christian mysticism**, and **evolutionary thought**. She explored the idea that the universe is in a constant process of **divine becoming**, with **God** evolving alongside creation. She emphasized the **co-creative relationship** between **humanity** and **God**, promoting a vision of **spiritual evolution** that integrates **Christian** and **non-Christian** perspectives.
 
