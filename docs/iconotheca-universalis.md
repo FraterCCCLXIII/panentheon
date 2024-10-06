@@ -344,10 +344,6 @@ The eight-spoked wheel, or Wheel of Dharma, represents the path to spiritual per
 
 ---
 
-Here’s your updated list of symbols written in **mkdocs** format:
-
----
-
 ### **Lamb of God**  
 Represents the sacrificial role of divine love and redemption. The lamb carries a banner symbolizing victory over suffering and death, embodying the ultimate sacrifice for the renewal of life.
 
@@ -410,10 +406,6 @@ The combination of the triquetra and circle represents the infinite and eternal 
 
 ### **Wheat**  
 A symbol of nourishment and the sustenance of life. Wheat represents abundance, fertility, and the continual renewal of life, symbolizing the spiritual sustenance that flows from higher wisdom.
-
----
-
-Here are the additional symbols written in **mkdocs** format, following the same style as before:
 
 ---
 
