@@ -7,8 +7,6 @@ NOTE: This needs cleanup, clarity, inclusions, and lots of editing!
 
 # **Colors**
 
-Certainly! Here’s a more in-depth version for each color, incorporating broader spiritual, psychological, and symbolic themes:
-
 ---
 
 ### **Green**  
@@ -254,8 +252,6 @@ The phoenix represents resurrection, renewal, and the cyclical nature of life. I
 ### **Olive Branch**
 The olive branch symbolizes peace, harmony, and reconciliation. It represents the act of making amends and the fostering of unity between individuals and communities. As a symbol of healing, the olive branch reminds us that peace is not merely the absence of conflict but the active cultivation of balance and understanding.
 
-Certainly! Here are more symbols added to the list, continuing in the same format:
-
 ---
 
 ### **Cornucopia (Horn of Plenty)**
@@ -308,22 +304,18 @@ Representing the beginning and the end, Alpha and Omega symbolize the eternal cy
 
 ---
 
-Here’s the **Eight Auspicious Symbols** rewritten in the same format as the other entries for your **mkdocs** symbol library:
-
----
-
 ### **Precious Parasol**
-The parasol represents protection from harmful influences. It signifies spiritual shelter and wisdom, providing safety from negative forces on the path to enlightenment.
+Originating in the East, the parasol represents protection from harmful influences. It signifies spiritual shelter and wisdom, providing safety from negative forces on the path to enlightenment.
 
 ---
 
 ### **White Conch Shell**
-The conch shell symbolizes the spread of enlightened teachings in all directions. It represents the universality of wisdom and the resonance of truth, which reaches all beings.
+Originating in the East, the conch shell symbolizes the spread of enlightened teachings in all directions. It represents the universality of wisdom and the resonance of truth, which reaches all beings. Synonymous with trumpets.
 
 ---
 
 ### **Two Golden Fish**
-The golden fish symbolize liberation and spiritual freedom. They represent being saved from the ocean of suffering and the cycle of birth and death, embodying the potential for transcendence.
+Originating in the East, the golden fish symbolize liberation and spiritual freedom. They represent being free despite living in the ocean of becoming. To be free is like being a fish in the water without fear of drowning. Similar motifs are found connected to Poseidon in the West.
 
 ---
 
