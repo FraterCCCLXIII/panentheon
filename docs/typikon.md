@@ -33,6 +33,7 @@ A semicircular outer garment worn by high-ranking figures in ancient Greece, the
 ### **Stole (Greek: Στολή - Stolē)**  
 **Symbolic Meaning**: The *Stole* is a long, narrow strip of cloth draped over the shoulders, often signifying spiritual authority, service, or dedication. It is worn during formal rituals or ceremonies and is derived from the ancient Greek *Stolē*, which means “garment.” The *Stolē* is traditionally worn across both shoulders, with its color or patterns indicating the spiritual lineage or role of the wearer. It is a versatile vestment that can complement other robes or garments, symbolizing both the simplicity and formality required in spiritual practice.
 
+(Need to add enkyklon, palla, pallium, chiton, tunic, cassock (occidental and oriental), etc.)
 ---
 
 ### **Headwear**
