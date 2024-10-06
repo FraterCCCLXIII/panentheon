@@ -61,6 +61,11 @@ The thunderbolt/diamond symbol, known as fulmen in Latin, κεραυνός (kera
 
 ---
 
+### **Bucranium**
+The **Bucranium** is an ancient decorative motif symbolizing the skull of an ox, commonly associated with sacrificial rituals. Its origin lies in the practice of hanging an ox’s head from temple beams as part of a religious offering. This motif was later carved into stone, often featured on the friezes or lintels of Doric temples. The earliest appearances of the bucranium motif can be traced back to pottery in ancient Iraq from around 5000 BC. The design spread to Bronze Age Crete, where it became associated with the bull cult, and the ox skull was decorated with bay leaves. Roman adaptations simplified the motif by omitting these garlands. During the Renaissance, architects revived the bucranium motif as a nod to classical styles and traditions.
+
+---
+
 ### **Double-Pointed Sword**
 The double-pointed sword represents balance, justice, and the integration of opposites. It symbolizes the dual nature of existence—life and death, light and darkness—and the spiritual strength required to uphold cosmic order. This symbol serves as a reminder of the responsibility to protect and honor the divine truth through actions rooted in integrity and loyalty.
 
