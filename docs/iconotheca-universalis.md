@@ -319,8 +319,8 @@ Originating in the East, the conch shell symbolizes the spread of enlightened te
 
 ---
 
-### **Two Golden Fish**
-Originating in the East, the golden fish symbolize liberation and spiritual freedom. They represent being free despite living in the ocean of becoming. To be free is like being a fish in the water without fear of drowning. Similar motifs are found connected to Poseidon in the West.
+### **Two Fish**
+Sharing common themes in both the West and East, the fish symbolize liberation and spiritual freedom. They represent being free despite living in the ocean of becoming—liberation is like being a fish in the water without fear of drowning. Within Buddhism these fish are often gold in color and referred to as the Golden Fish. Similar motifs are found connected to Poseidon in the West when the fish are paired with a Trident. In Christianity they are paired in with an anchor. St. Augustine wrote of Jesus, “He was able to live…without sin in the abyss of this mortality as in the depths of waters.” City of God xviii. 23
 
 ---
 
