@@ -71,7 +71,8 @@ The *Lituus* is a curved wand used during spiritual ceremonies and processions a
 
 ---
 
-### **Caduceus (Greek: Κηρύκειον - Kērýkeion)**: A staff entwined with two serpents, symbolizing balance, wisdom, and healing. In spiritual ceremonies, it can represent the harmonizing of opposing forces, such as knowledge and compassion, or heaven and earth.
+### **Caduceus (Greek: Κηρύκειον - Kērýkeion):** 
+A staff entwined with two serpents, symbolizing balance, wisdom, and healing. In spiritual ceremonies, it can represent the harmonizing of opposing forces, such as knowledge and compassion, or heaven and earth.
 
 ---
 
