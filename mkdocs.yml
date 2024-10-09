@@ -29,14 +29,13 @@ extra:
   generator: false
 
 nav:
-  - Home: index.md
   - About:
+    - Introduction: index.md
     - About: about.md
-    - History: history.md
-    - A Brief History of Consciousness: historia.md
+    - A History of Consciousness: historia.md
     - Catechism: catechism.md
-    - Lineage: lineage.md
-  - Resources:
+    - Transmission of Light: lineage.md
+  - Typikon:
     - Interpretatio - Glossary: glossary/interpretatio-universalis.md
     - Iconotheca - Iconography: iconotheca-universalis.md
     - Thesmoi - Codes of Conduct: thesmoi.md
