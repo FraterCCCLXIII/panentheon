@@ -31,7 +31,7 @@ extra:
 nav:
   - About:
     - Introduction: index.md
-    - About: about.md
+    - A Universal Rite: universal-rite.md
     - A History of Consciousness: historia.md
     - Catechism: catechism.md
     - Transmission of Light: lineage.md
