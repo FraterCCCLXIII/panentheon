@@ -1,3 +1,7 @@
+# Anthologia: Quotes of the Sages
+
+This collection of quotations is meant to help stir the heart, mind, and soul. To help you recognize the transmission of light, the Logos, as it has been appearing throughout history.
+ 
 The One is all things and none whatsoever.
 – Plotinus
 
