@@ -37,12 +37,14 @@ nav:
     - Diakrisis - Distinctions: diakrisis-distinctions.md
     - Transmission of Light: lineage.md
   - Typikon:
+    - Introduction: typikon.md 
     - Interpretatio - Glossary: glossary/interpretatio-universalis.md
     - Iconotheca - Iconography: iconotheca-universalis.md
     - Thesmoi - Codes of Conduct: thesmoi.md
-    - Typikon - Customs: typikon.md
+    - Amphia - Vestments: typikon.md
     - Ascesis - Practices: ascesis.md
     - Kosmographia - Maps: kosmographia.md
     - Daimonologia - Divine Beings: daimonologia.md
+    - Anthologia - Quotes of the Sages: anthologia.md
     - Soma Kosmikon - Corpus: soma-kosmikon.md
   - Contributor Guide: contributor_guide.md
