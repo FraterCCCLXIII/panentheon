@@ -10,3 +10,12 @@ The Greater in the all is entirely harmless.
 
 The universe is always happy, and our soul will likewise be happy, when it is assimilated to the universe; for thus it will be led back to its cause.
 – Proclus
+
+Almighty Jupiter, sovereign of all things, and of all the Gods; Father and mother of the Gods; himself the only God, in himself, all Gods.
+
+-Varro
+
+Jove, Pluto, Phœbus, Bacchus, all are One.
+
+-Orpheus
+
