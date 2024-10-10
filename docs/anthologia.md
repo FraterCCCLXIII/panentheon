@@ -191,3 +191,25 @@ We do not know what God is. God Himself does not know what He is because He is n
 
 “For the life it leads is dark with evil, sunk in manifold death. It sees no longer what the soul should see. It can no longer rest within itself but is forever being dragged towards the external, the lower, the dark.”  
 ― Plotinus
+
+“God is a circle whose center is everywhere, and its circumference nowhere.”  
+― Empedocles, *Empedocles: The Extant Fragments*
+
+“No mortal thing has a beginning, nor does it end in death and obliteration; there is only a mixing and then separating of what was mixed, but by mortal men these processes are named 'beginnings.'”  
+― Empedocles, *The Fragments of Empedocles*
+
+“Many fires burn below the surface.”  
+― Empedocles
+
+“The force that unites the elements to become all things is Love, also called Aphrodite; Love brings together dissimilar elements into a unity, to become a composite thing. Love is the same force that human beings find at work in themselves whenever they feel joy, love, and peace. Strife, on the other hand, is the force responsible for the dissolution of the one back into its many, the four elements of which it was composed.”  
+― Empedocles
+
+“It was not the mixture, O men, of blood and breath that made the beginning and substance of your souls, though your earthborn and mortal body is framed of those things. But your soul has come hither from another place.”  
+― Empedocles
+
+“Weak and narrow are the powers implanted in the limbs of men; many the woes that fall on them and blunt the edge of thought; short is the measure of the life in death through which they toil; then are they borne away, like smoke they vanish into air, and what they dream they know is but the little each hath stumbled on in wandering about the world; yet boast they all that they have learned the whole—vain fools! For what that is, no eye hath seen, no ear hath heard, nor can it be conceived by the mind of man. Thou, then, since thou hast fallen to this place, shalt know no more than human wisdom may attain.”  
+― Empedocles
+
+“[i]νυκτὸς ἐρεμαίης ἀλαώπιδος...[/i]  
+Of night, the lonely, with her sightless eyes.”  
+― Empedocles, *The Fragments of Empedocles*
