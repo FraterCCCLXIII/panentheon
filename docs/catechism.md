@@ -1,3 +1,11 @@
+#Catechism: Answers to the big questions
+
+A catechism is a structured set of questions and answers used for religious or philosophical instruction, designed to convey key beliefs, principles, or teachings in a clear and systematic way. Traditionally, catechisms are used in various faith traditions to teach the fundamentals of the faith to new adherents or those seeking deeper understanding. The question-and-answer format encourages learning through direct engagement, making complex concepts more accessible.
+
+This catechism helps you to explore the relationship between the divine and the cosmos, the goals of spiritual life, and the nature of reality. It also helps clarify the metaphysical and ethical frameworks within which individuals can pursue personal and collective spiritual development, emphasizing enlightenment (henoisis) and conscious participation in divine creativity (theurgia). Through the use of this format, seekers are guided step-by-step in aligning their lives with these universal principles.
+
+---
+
 ### **The Nature of the Divine and the Universe**
 
 **Q**: What is the nature of the divine in Universal Panentheism?  
