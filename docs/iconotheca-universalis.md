@@ -329,8 +329,8 @@ The knot symbolizes the inseparability of wisdom and compassion. It represents t
 
 ---
 
-### **Vase of Great Treasures**
-The vase signifies abundance and the fulfillment of spiritual prosperity. It symbolizes longevity, the perfection of wisdom, and the blessings of the cosmos that arise from living in alignment with higher principles.
+### **Oinochoe - The Vessel (vase) of Great Treasures**
+The vase signifies abundance and the fulfillment of spiritual prosperity. It symbolizes immortality, the perfection of wisdom, and grace. In myth the vase is filled with the elixir of immortality. It can be shown alone, held in a hand of a deity, filled or overflowing with water, wine, or milk. It is also a vessel from which the World Tree emerges in the form of floral motifs or a tree. It is synomyous with the Vedic khumbh.
 
 ---
 
