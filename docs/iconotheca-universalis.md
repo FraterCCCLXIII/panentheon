@@ -56,6 +56,16 @@ Silver is a color connected to the moon, intuition, and reflection. It represent
 
 # **Symbols**
 
+### **Chi (Cross)**
+
+In Plato's Timaeus, it is explained that the two bands which form the "world soul" (anima mundi) cross each other like the letter Chi, possibly referring to the ecliptic crossing the celestial equator:
+
+And thus the whole mixture out of which he cut these portions was all exhausted by him (The Demiurge). This entire compound divided lengthways into two parts, which he joined to one another at the centre like the letter X, and bent them into a circular form, connecting them with themselves and each other at the point opposite to their original meeting-point; and, comprehending them in a uniform revolution upon the same axis, he made the one the outer and the other the inner circle.
+
+— Plato, Timaeus, 8.36b and 8.36c[4]
+
+---
+
 ### **Keraunos, Vajra (Lighting Bolt)**
 The thunderbolt/diamond symbol, known as fulmen in Latin, κεραυνός (keraunos) in Greek, and vajra (Sanskrit) or dorje (Tibetan) in Vedic and Tantric traditions, represents a transcultural icon of divine power, cosmic justice, and spiritual transformation. In Roman and Greek traditions, the fulmen/keraunos is the weapon of Jupiter and Zeus, symbolizing supreme authority, protection, and the force to maintain order. In Vedic culture, the vajra is wielded by Indra, representing both the indestructibility of a diamond and the irresistible force of a thunderbolt, used to conquer chaos and bring cosmic balance. In Tantric Buddhism, particularly in Vajrayana, the Vajra is a ritual object symbolizing indestructible truth and spiritual awakening, cutting through illusion to reveal the clarity of enlightenment. Across these traditions, the symbol reflects an understanding of the thunderbolt as both a destructive and creative force—an embodiment of divine will, transcendent wisdom, and lightning-like quality of enlightenment and grace to dispell ignorance instantly. 
 
